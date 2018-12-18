@@ -1,0 +1,21 @@
+﻿Build started 12/10/2018 12:38:25 AM.
+     1>Project "C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\ColorDetection\ColorDetection.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtCore /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtGui /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtANGLE /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_colordetection.cpp colordetection.cpp main.cpp
+         moc_colordetection.cpp
+         colordetection.cpp
+         main.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtCore /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtGui /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.6.3\5.6.3\msvc2013_64\include\QtANGLE /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_colordetection.cpp
+         qrc_colordetection.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\x64\Debug\\ColorDetection.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.6.3\5.6.3\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_calib3d400d.lib opencv_core400d.lib opencv_dnn400d.lib opencv_features2d400d.lib opencv_flann400d.lib opencv_highgui400d.lib opencv_imgcodecs400d.lib opencv_imgproc400d.lib opencv_ml400d.lib opencv_objdetect400d.lib opencv_photo400d.lib opencv_shape400d.lib opencv_stitching400d.lib opencv_superres400d.lib opencv_ts400d.lib opencv_video400d.lib opencv_videoio400d.lib opencv_videostab400d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\x64\Debug\ColorDetection.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\x64\Debug\ColorDetection.lib" /MACHINE:X64 x64\Debug\colordetection.obj
+         x64\Debug\moc_colordetection.obj
+         x64\Debug\qrc_colordetection.obj
+         x64\Debug\main.obj
+         ColorDetection.vcxproj -> C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\x64\Debug\ColorDetection.exe
+     1>Done Building Project "C:\Users\Madjid\Documents\Visual Studio 2013\Projects\ColorDetection\ColorDetection\ColorDetection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.31
