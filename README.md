@@ -5,8 +5,10 @@
   - OpenCV 4.0.0
   - .NET Framework 4.0
 # How to use
-    The GUI contains two tabs:
-    # Detectiion tab :
+  - Detectiion tab :
     allows to either start or stop detection with two additional track-bars to fix the draw distance and the erasing thickness.
-    # Configuration tab :
+  - Configuration tab :
     Where you define the range of the desired detected color using a three track-bars to adjust the HSV values.
+# Screenshots
+
+![Alt text](Screenshots/Sample.png)
