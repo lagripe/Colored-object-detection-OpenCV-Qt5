@@ -1,5 +1,5 @@
 # Description
-  Utility for detecting colored object with the ability of drawing for a fixed distance, it's limited to two detected colors and one colored object with the ability of erasibility
+  Utility for detecting colored object with the ability of drawing for a fixed distance, it's limited to detect two colors and the last colored object has the ability of erasibility
 # Specs
   - Qt5
   - OpenCV 4.0.0
